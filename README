@@ -26,7 +26,8 @@ pip install flash-attn --no-build-isolation
 
 !pip install accelerate==0.27.2
 
-
+#run training script after adjusting data path
+bash Phi3-V_finetune_lora.sh
 
 
 
