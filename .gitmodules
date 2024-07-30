@@ -1,3 +1,6 @@
 [submodule "LLaVA"]
 	path = LLaVA
 	url = https://github.com/haotian-liu/LLaVA
+[submodule "LLaVA-Meta-Llama-3-8B-Instruct-pretrain"]
+	path = LLaVA-Meta-Llama-3-8B-Instruct-pretrain
+	url = https://huggingface.co/MBZUAI/LLaVA-Meta-Llama-3-8B-Instruct-pretrain
